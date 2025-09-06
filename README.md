@@ -88,16 +88,16 @@ I’m a software engineer who enjoys solving problems across the stack, turning 
 ---
 
 ## Connect
-- Website/Portfolio: [your-site.com]
+- Website/Portfolio: 
 - LinkedIn: [linkedin.com/in/your-handle]
 - X/Twitter: [@your-handle]
-- Email: [your@email]
+- Email: aagamratadia@gmail.com
 
 ---
 
 ## Fun
 - 💡 Currently building: [what you’re hacking on]
-- 📚 Learning: [topic/tech]
+- 📚 Learning: AI engineering
 - 🎯 2025 goal: [measurable goal]
 
 <!--
