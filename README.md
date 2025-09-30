@@ -46,20 +46,20 @@ I’m a software engineer who enjoys solving problems across the stack, turning 
 
 ## Featured projects
 <!-- Replace with your best 3–6 projects. Use concise impact statements. -->
-- [Repo Name](https://github.com/Aagamratadia/[REPO]):
+- [IPD](https://github.com/Aagamratadia/IPD-CDD):
+  - What it does: Car detection System
+  - Built with: MERN Stack
+  - Notable: Copyrighted Software
+
+- [Inventory Management](https://github.com/Aagamratadia/SM-Inventory):
   - What it does: [one-liner]
   - Built with: [key tech]
   - Notable: [metrics, users, stars, performance, write-up]
 
-- [Repo Name](https://github.com/Aagamratadia/[REPO]):
-  - What it does: [one-liner]
-  - Built with: [key tech]
-  - Notable: [metrics, users, stars, performance, write-up]
-
-- [Repo Name](https://github.com/Aagamratadia/[REPO]):
-  - What it does: [one-liner]
-  - Built with: [key tech]
-  - Notable: [metrics, users, stars, performance, write-up]
+- [Tournament](https://github.com/Aagamratadia/badminton-league):
+  - What it does: This is a badmintion tournament leaderboard website customised for an organisation
+  - Built with: NextJS
+  - Notable: Serverless
 
 ---
 
@@ -96,9 +96,9 @@ I’m a software engineer who enjoys solving problems across the stack, turning 
 ---
 
 ## Fun
-- 💡 Currently building: [what you’re hacking on]
+- 💡 Currently building: Vyazen - Transform your codebase into a queryable graph
 - 📚 Learning: AI engineering
-- 🎯 2025 goal: [measurable goal]
+- 🎯 2025 goal: 30 LPA 
 
 <!--
 Tips:
