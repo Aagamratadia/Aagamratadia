@@ -4,14 +4,14 @@ Software Engineer (https://home-olive-seven.vercel.app)
 <!-- Personalize this README by replacing the bracketed placeholders. -->
 
 - 🚀 Focus: Building clean, reliable software and shipping meaningful features
-- 🧰 Tooling I enjoy: [add a few tools or workflows you like]
-- 🌱 Always learning: [domain/tech you’re exploring]
-- 🤝 Open to: [collaboration, mentoring, speaking, new roles, etc.]
+- 🧰 Tooling I enjoy: Windsurf
+- 🌱 Always learning: Aritficial Intelligance
+- 🤝 Open to: collaboration, mentoring, developing software!
 
 ---
 
 ## Quick facts
-- On GitHub since 2023
+- On GitHub since 2020
 - 19 public repositories
 
 ![Followers](https://img.shields.io/github/followers/Aagamratadia?label=Followers&style=social)
@@ -28,11 +28,11 @@ I’m a software engineer who enjoys solving problems across the stack, turning 
 
 ## Tech stack
 <!-- List the technologies you’re strongest with. Keep it scannable. -->
-- Languages: [e.g., TypeScript, JavaScript, Python, Go, Java, C#]
-- Frameworks: [e.g., React, Next.js, Node.js/Express, Spring, .NET, Django]
-- Data/Infra: [e.g., Postgres, Redis, Kafka, Docker, Kubernetes, AWS/GCP/Azure]
-- Testing/Quality: [e.g., Jest, Playwright, Cypress, PyTest, JUnit]
-- Tools: [e.g., GitHub Actions, Terraform, Grafana, Sentry]
+- Languages: TypeScript, JavaScript, Python, Go, Java, C#
+- Frameworks: React, Next.js, Node.js/Express, Spring, PHP, FASTAPI, NestJs, Mastra
+- Data/Infra: Postgres, Redis, Kafka, Docker, Kubernetes, AWS/GCP/Azure
+- Testing/Quality: Jest, Playwright, Cypress, PyTest, JUnit
+- Tools: GitHub Actions, Terraform, Grafana, Sentry, Docker
 
 ---
 
